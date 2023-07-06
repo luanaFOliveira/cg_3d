@@ -1,0 +1,274 @@
+# depslib dependency file v1.0
+1686149937 source:c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1686149996 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\vector2.h
+
+1589218349 source:c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1193164156 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1686664527 source:c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<chrono>
+	<thread>
+	"gl_canvas2d.h"
+	"Player.h"
+	"Inimigos.h"
+	"Bullet.h"
+	"Pontuacao.h"
+	"Cenario.h"
+	"TelaInicio.h"
+	"TelaGameOver.h"
+
+1589214882 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\bola.h
+	"gl_canvas2d.h"
+
+1589214891 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+
+1681992636 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\triangulo.h
+	"gl_canvas2d.h"
+	"Figura.h"
+	<cmath>
+
+1682009670 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\retangulo.h
+	"gl_canvas2d.h"
+	"Figura.h"
+	<cmath>
+
+1681329161 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\buttons.h
+	"gl_canvas2d.h"
+
+1684761103 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\figura.h
+	"gl_canvas2d.h"
+
+1682004922 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\figuras.h
+	<iterator>
+	<list>
+	<string>
+	<vector>
+	"gl_canvas2d.h"
+	"ColorBar.h"
+	"Circulo.h"
+	"Quadrado.h"
+	"Figura.h"
+
+1681911047 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\colorbar.h
+	"gl_canvas2d.h"
+	"Quadrado.h"
+
+1682013393 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\toolbar.h
+	"gl_canvas2d.h"
+	"Botao.h"
+
+1682004963 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\circulo.h
+	"gl_canvas2d.h"
+	"Figura.h"
+
+1681991583 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\export.h
+	"gl_canvas2d.h"
+	"Retangulo.h"
+	<iostream>
+	<fstream>
+	<iterator>
+	<list>
+	<string>
+
+1681991551 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\quadrado.h
+	"gl_canvas2d.h"
+	"Figura.h"
+
+1682004715 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\import.h
+	"gl_canvas2d.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+
+1682013451 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\labelbar.h
+	"gl_canvas2d.h"
+	"vector"
+	"Figuras.h"
+
+1686664311 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\player.h
+	"gl_canvas2d.h"
+	"Retangulo.h"
+	"Inimigos.h"
+	"Bullet.h"
+	"Pontuacao.h"
+	"Cenario.h"
+	"TelaGameOver.h"
+	<iterator>
+	<list>
+	<cfloat>
+
+1684755418 source:c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\untitled1.c
+
+1686664389 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\inimigos.h
+	<iterator>
+	<list>
+	<chrono>
+	<thread>
+	"gl_canvas2d.h"
+	"Inimigo.h"
+	"Player.h"
+
+1686663824 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\inimigo.h
+	"gl_canvas2d.h"
+	"Bullet.h"
+	<iterator>
+	<list>
+	"Player.h"
+
+1686162228 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\bullet.h
+	"gl_canvas2d.h"
+	<iterator>
+	<list>
+	"Retangulo.h"
+
+1686076406 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\pontuacao.h
+	"gl_canvas2d.h"
+	"Player.h"
+
+1686657270 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\cenario.h
+	"gl_canvas2d.h"
+	<vector>
+	<bits/stdc++.h>
+
+1686314798 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\telainicio.h
+	"gl_canvas2d.h"
+
+1686314589 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\gl_1_canvasglut\src\telagameover.h
+	"gl_canvas2d.h"
+
+1686149937 source:c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1686149996 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\src\vector2.h
+
+1688665384 source:c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	"gl_canvas2d.h"
+	"Cilindro.h"
+	"Pistao.h"
+	"Biela.h"
+	"Manibela.h"
+	"Motor.h"
+	"Trapezio.h"
+
+1589218349 source:c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1193164156 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\src\relogio.h
+	"gl_canvas2d.h"
+
+1684755418 source:c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\src\untitled1.c
+
+1688051891 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\src\cilindro.h
+	"gl_canvas2d.h"
+	"Vector3.h"
+
+1686833539 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\src\vector3.h
+
+1688059050 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\src\pistao.h
+	"gl_canvas2d.h"
+	"Cilindro.h"
+
+1688665951 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\src\biela.h
+	"gl_canvas2d.h"
+	"Cilindro.h"
+	"Paralelepipedo.h"
+	"Trapezio.h"
+
+1687454204 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\src\paralelepipedo.h
+	"gl_canvas2d.h"
+	"Vector3.h"
+
+1688058311 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\src\trapezio.h
+	"gl_canvas2d.h"
+	"Vector3.h"
+
+1688059110 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\src\manibela.h
+	"gl_canvas2d.h"
+	"Cilindro.h"
+	"Paralelepipedo.h"
+	"Trapezio.h"
+
+1688058131 c:\users\luluo\documents\faculdade\quinto_semestre\computacao grafica\demos\testescubo\src\motor.h
+	"gl_canvas2d.h"
+	"Vector3.h"
+
